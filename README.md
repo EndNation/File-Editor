@@ -41,3 +41,7 @@ public String readFile(String filePathString) throws IOException
   return fe.readFile(filePathString);
 }
 ```
+
+## Feedbacks
+
+Got any suggestions or feedbacks? You can always make a pull-request if you can code the idea out. If you can't code, worry not, I will be coming up with ways you can give suggestions.
